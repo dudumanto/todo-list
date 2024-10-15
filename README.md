@@ -124,8 +124,8 @@ Qual é a principal diferença entre let e var em JavaScript?
 Resposta Certa
 <br>
 a) let tem escopo de bloco, enquanto var tem escopo de função 1
-
 <br>
+
 1.2 Questões Discursivas
 <br>
 Explique o conceito de "Injeção de Dependência" e como ele contribui para um código mais modular e testável. Forneça um exemplo prático de sua implementação em PHP ou JavaScript.
