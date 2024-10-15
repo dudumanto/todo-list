@@ -95,7 +95,7 @@ Qual das seguintes afirmações sobre o PHP é correta?
 
 Resposta Certa
 <br>
-c) PHP pode ser embutido em HTML 1 
+c) PHP pode ser embutido em HTML 
 
 
 No contexto do Node.js, o que é o Event Loop?
@@ -104,7 +104,7 @@ Resposta Certa
 <br>
 b) Um mecanismo que permite I/O não bloqueante 1
 
-<br>
+
 Qual dos seguintes não é um hook do React?
 <br>
 Resposta Certa
