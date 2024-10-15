@@ -20,50 +20,70 @@ PHP: https://www.php.net/
 MySQL: https://www.mysql.com/downloads/
 <br>
 
-1.Clone esse repósitorio 
-``` bash
-  cd backend
+## Instalação
 
-# Instale as dependências:
- ``` bash
-    npm install
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/dudumanto/todo-list
+ 
 
-# Inicie o servidor:
-```bash
-  npm start
+2.  Entre na pasta api-node :
+    ```bash
+    cd api-node
+
+3. Instale as dependências:
+   ```bash
+   npm install
+
+4. Rode o servidor
+    ```bash
+    node server.js
+
+5. Vamos voltar para a raiz do projeto
+    ```bash
+    cd .. 
+    
+6. Vamos para o front-end
+    ```bash
+    cd frontend
+
+7. Instale as dependências:
+   ```bash
+   npm install
+
+8. Rode o servidor
+   ```bash
+   npm start
+
+9. Vamos configurar o sistema PHP
+   ```bash
+   Instale o Wamp ou Xamp
+
+10. Rode o Xamp ou Wamp
+
+11. Crie um banco de dados, eu criei um banco com o nome todo_db, mas você pode escolher o noem da sua preferência.
+
+12. Crie a tabela no banco de dados, eu deixei dentro do projeto, na pasta php, um arquivo chamado schema.sql, nele vai ter a estrutura do sql, só copiar e colar no seu sql, dentro da tabela que você criou
 
 
-Navegue até a pasta do frontend:
-bash
-Copiar código
-cd frontend
-Instale as dependências:
-bash
-Copiar código
-npm install
-Inicie a aplicação:
-bash
-Copiar código
-npm start
-Sistema Legado (PHP)
+# Teste Unitários no Node
 
-Configure o servidor PHP (ex: XAMPP).
-Crie um banco de dados e execute o script SQL fornecido para criar a tabela tasks.
-Acesse o sistema PHP pelo navegador.
-Testes
-Para executar os testes unitários:
+1. Entre na pasta api-node
 
-Backend (Node.js)
+2. Rode o comando 
+   ```bash
+   npm test
 
-bash
-Copiar código
-cd backend
-npm test
-Frontend (React)
+3. se estiver tudo certo não vai aparecer nenhum erro no terminal.
 
-bash
-Copiar código
-cd frontend
-npm test
-Considerações Finais
-Este projeto é uma solução completa para um sistema de gerenciamento de tarefas, integrando diferentes tecnologias e demonstrando como elas podem trabalhar em conjunto. Sinta-se à vontade para expandir ou modificar conforme necessário.
+# Teste Unitários no React
+
+1. Entre na pasta frontend
+
+2. Rode o comando 
+   ```bash
+   npm test
+
+3. se estiver tudo certo não vai aparecer nenhum erro no terminal.
+
+
