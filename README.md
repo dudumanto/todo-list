@@ -88,53 +88,61 @@ MySQL: https://www.mysql.com/downloads/
 
 <br>
 1. Parte Teórica
+<br>
 1.1 Questões de Múltipla Escolha
-📋 Qual das seguintes afirmações sobre o PHP é correta?
+<br>
+Qual das seguintes afirmações sobre o PHP é correta?
 
 Resposta Certa
+<br>
 c) PHP pode ser embutido em HTML 1 
 
 
-📋 No contexto do Node.js, o que é o Event Loop?
-
-Certa
+No contexto do Node.js, o que é o Event Loop?
+<br>
+Resposta Certa
+<br>
 b) Um mecanismo que permite I/O não bloqueante 1
 
-
-📋 Qual dos seguintes não é um hook do React?
-
-Certa
+<br>
+Qual dos seguintes não é um hook do React?
+<br>
+Resposta Certa
+<br>
 d) useServer 
-
-📋 Em Oracle SQL, qual cláusula é usada para combinar linhas de duas ou mais tabelas com base em uma condição relacionada?
-
- Certa
+<br>
+Em Oracle SQL, qual cláusula é usada para combinar linhas de duas ou mais tabelas com base em uma condição relacionada?
+<br>
+Resposta Certa
+<br>
 b) JOIN 
 
-
-📋 Qual é a principal diferença entre let e var em JavaScript?
-
-Certa
+<br>
+Qual é a principal diferença entre let e var em JavaScript?
+<br>
+Resposta Certa
+<br>
 a) let tem escopo de bloco, enquanto var tem escopo de função 1
 
-
+<br>
 1.2 Questões Discursivas
-📃 Explique o conceito de "Injeção de Dependência" e como ele contribui para um código mais modular e testável. Forneça um exemplo prático de sua implementação em PHP ou JavaScript.
+<br>
+Explique o conceito de "Injeção de Dependência" e como ele contribui para um código mais modular e testável. Forneça um exemplo prático de sua implementação em PHP ou JavaScript.
+<br>
+É uma forma de implementar a inversão de IOC, com isso um componente recebe dependências de fora, assim não precisando criar as suas próprias dependências4
 
-é uma forma de implementar a inversão de IOC, com isso um componente recebe dependências de fora, assim não precisando criar as suas próprias dependências4
-
-
-📃 Descreva o padrão de arquitetura MVC (Model-View-Controller) e como você o aplicaria em um projeto que utiliza React no frontend e Node.js no backend. Quais são os benefícios e possíveis desafios dessa abordagem?
-
+<br>
+Descreva o padrão de arquitetura MVC (Model-View-Controller) e como você o aplicaria em um projeto que utiliza React no frontend e Node.js no backend. Quais são os benefícios e possíveis desafios dessa abordagem?
+<br>
 
 É um padrão de organização de código, ela utiliza três princípios, que são Model, View e Controller.
 Model: Faz o gerenciamento de dados e regras com o banco de dados.
 View: É tudo que o usuário vê na tela e também pega as interações dos usuários.
 Controller: Ela faz o meio de campo entre a Model e a View, ela que recebe todos os comandos que o usuário solicita e através disso, ela atualiza a view
-
+<br>
 Benefícios
 Fácil manutenção e escalabilidade, facilidade na hora de criação de testes separados.
-
+<br>
 Desafios
 Acredito que seja para aplicações menores, pois se eu for fazer uma aplicação menor, um crud simples, eu não preciso utilizar o MVC, pois isso vai ocupar bastante espaço na aplicação, eu posso fazer um pdo mais simples e utilizar ele.
 Acredito que o MVC é bom para aplicações grandes e com grande complexidade, pois pode deixar a aplicação estruturada e fácil de manutenção 
