@@ -117,7 +117,6 @@ Em Oracle SQL, qual cláusula é usada para combinar linhas de duas ou mais tabe
 Resposta Certa
 <br>
 b) JOIN 
-
 <br>
 Qual é a principal diferença entre let e var em JavaScript?
 <br>
