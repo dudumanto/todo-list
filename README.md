@@ -12,9 +12,13 @@ Este é um mini-projeto de gerenciamento de tarefas que integra um sistema legad
 
 # Como Executar o Projeto
 Pré-requisitos ter instalado todas essa tecnologias, caso não tenha segue o link do site para download.
+<br>
 Node.js : https://nodejs.org/pt
+<br>
 PHP: https://www.php.net/
+<br>
 MySQL: https://www.mysql.com/downloads/
+<br>
 
 1.Clone esse repósitorio 
 ``` bash
