@@ -86,7 +86,7 @@ MySQL: https://www.mysql.com/downloads/
 
 3. Se estiver tudo certo não vai aparecer nenhum erro no terminal.
 
-
+<br>
 1. Parte Teórica
 1.1 Questões de Múltipla Escolha
 📋 Qual das seguintes afirmações sobre o PHP é correta?
