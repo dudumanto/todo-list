@@ -109,8 +109,9 @@ Qual dos seguintes não é um hook do React?
 <br>
 Resposta Certa
 <br>
-d) useServer 
-<br>
+d) useServer
+
+
 Em Oracle SQL, qual cláusula é usada para combinar linhas de duas ou mais tabelas com base em uma condição relacionada?
 <br>
 Resposta Certa
